@@ -18,6 +18,7 @@
 		"RegExLink",
 		"sublack",
 		"SublimeLinter",
+		"SublimeLinter-annotations",
 		"Zen Tabs"
 	]
 }
