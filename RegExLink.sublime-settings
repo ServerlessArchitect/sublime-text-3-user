@@ -1,0 +1,13 @@
+{
+
+   "regex_link_mark_style": "circle", // alternatives are: dot, circle, bookmark and cross
+   "regex_link_def": [
+      // URL
+      {
+         "name" : "Cloud test",
+         "regex" : "(test\\?name=\\S+)",
+         "link" : "http://localhost:8080/$1",
+         "style": "comment"  // alternatives are: string, invalid, variable, comment, variable.parameter
+      },
+   ]
+}

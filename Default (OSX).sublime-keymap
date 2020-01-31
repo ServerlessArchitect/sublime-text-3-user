@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["command+shift+o"],
+        "command": "reg_ex_link"
+    }
+]
