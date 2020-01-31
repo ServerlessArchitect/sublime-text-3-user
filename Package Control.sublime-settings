@@ -21,6 +21,7 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-codeclimate",
 		"SublimeLinter-contrib-markdownlint",
+		"SublimeLinter-csslint",
 		"Zen Tabs"
 	]
 }
