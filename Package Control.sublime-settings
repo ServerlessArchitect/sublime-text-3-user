@@ -25,6 +25,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
 		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pyflakes",
 		"Zen Tabs"
 	]
 }
