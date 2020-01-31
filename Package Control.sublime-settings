@@ -19,6 +19,7 @@
 		"sublack",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-codeclimate",
 		"Zen Tabs"
 	]
 }
