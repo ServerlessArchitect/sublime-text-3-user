@@ -23,6 +23,7 @@
 		"SublimeLinter-contrib-markdownlint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
+		"SublimeLinter-json",
 		"Zen Tabs"
 	]
 }
