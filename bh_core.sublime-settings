@@ -1,0 +1,5 @@
+{
+    "search_threshold": 20000,
+    "popup_line_context": 4,
+    "show_bracket_popup_always": true,
+}
