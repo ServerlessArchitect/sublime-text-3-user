@@ -15,6 +15,7 @@
 		"isort",
 		"Jade",
 		"Package Control",
-		"RegExLink"
+		"RegExLink",
+		"sublack"
 	]
 }
