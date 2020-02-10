@@ -20,6 +20,7 @@
 		"draw_normal",
 		"draw_active"
 	],
+	"isort.sort_on_save": false,
 	"match_brackets_angle": true,
 	"remember_full_screen": true,
 	"rulers":
