@@ -23,6 +23,7 @@
 		"SublimeLinter-contrib-codeclimate",
 		"SublimeLinter-contrib-markdownlint",
 		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-json",
 		"SublimeLinter-pycodestyle",
