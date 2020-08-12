@@ -4,5 +4,10 @@
         "pycodestyle": {
             "args": ["--ignore=E111,E114,E121,E501,W503"]
         }
-    }
+    },
+    "paths": {
+        "linux": [],
+        "osx": ["~/.pyenv/shims"],
+        "windows": []
+    },
 }
