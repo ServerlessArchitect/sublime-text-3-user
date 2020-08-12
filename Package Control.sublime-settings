@@ -16,6 +16,7 @@
 		"isort",
 		"Jade",
 		"Package Control",
+		"PackageDev",
 		"RegExLink",
 		"sublack",
 		"SublimeLinter",
