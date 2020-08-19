@@ -2,13 +2,14 @@
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/ayu/ayu-light.sublime-color-scheme",
+	"color_scheme": "Packages/ayu/ayu-dark.sublime-color-scheme",
+	"color_scheme.dark": "Packages/ayu/ayu-dark.sublime-color-scheme",
+	"color_scheme.light": "Packages/ayu/ayu-light.sublime-color-scheme",
 	"default_line_ending": "unix",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_size": 14,
 	"folder_exclude_patterns":
 	[
 		".mypy_cache",
@@ -16,6 +17,7 @@
 		"__pycache__",
 		".pytest_cache"
 	],
+	"font_size": 20,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -38,7 +40,9 @@
 	"shift_tab_unindent": true,
 	"show_line_endings": true,
 	"spell_check": true,
-	"theme": "ayu-light.sublime-theme",
+	"theme": "ayu-dark.sublime-theme",
+	"theme.dark": "ayu-dark.sublime-theme",
+	"theme.light": "ayu-light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
