@@ -1,5 +1,6 @@
 {
     "anaconda_gutter_theme": "retina",
+    "anaconda_linting": false,
     "complete_parameters": true,
     "pep257": false,
     "python_interpreter": "python3"
