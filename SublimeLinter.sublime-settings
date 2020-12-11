@@ -3,6 +3,17 @@
     "linters": {
         "pycodestyle": {
             "args": ["--ignore=E111,E114,E121,E501,W503"]
+        },
+        "mypy": {
+            // "executable": ["mypy", "--no-pretty"]
+            "executable": [
+                "python3",
+                "~/GitHub/build-tools/Python/mypy_proxy.py",
+                "--no-pretty",
+                "--show-column-numbers",
+                "--hide-error-context",
+            ]
+            //"filter_errors": ["lazy_fixture", "return_value", "assert_called_once_with"]
         }
     },
     "paths": {
